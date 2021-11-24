@@ -28,7 +28,7 @@
                     <input type="text" name="profession"></label><br>
                 <div class="box">
                     <button class="insert" type="submit" name="insert" value="Insert">Add</button>
-                    <a class="cancel" href="./index.php">Back</a>
+                    <a class="cancel" href="./index.html">Back</a>
                 </div>
             </form>
         </div>

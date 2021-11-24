@@ -20,7 +20,7 @@
             <h1>All employees</h1>
             <a href="insert.php">add a new employee</a>
             <a href="delete.php">remove employee</a>
-            <a href="index.php">cancel</a>
+            <a href="index.html">cancel</a>
         </div>
         <div class="container2">
             <?php

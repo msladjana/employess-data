@@ -15,7 +15,7 @@
             <h1>Remove employees</h1>
             <a href="select.php">See all employees</a>
             <a href="insert.php">Add a new employee</a>
-            <a href="index.php">Cancel</a>
+            <a href="index.html">Cancel</a>
         </div>
 
         <div class="container2">
