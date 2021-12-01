@@ -3,7 +3,7 @@
 
 # Setup
 * Update the **inc/connect.php** file with your database credentials.
-* Import the **employee_data.sql** file / database.
+* Create **employee_data** database and import the **employee_data.sql** file.
 
 # Screenshots
 
